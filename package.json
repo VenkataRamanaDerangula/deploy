@@ -1,0 +1,11 @@
+{
+  "name": "project",
+  "version": "1.0.0",
+  "scripts": {
+    "start": "concurrently \"cd canva-clone-cesdk-imgly && npm start\" \"cd presently && npm run dev\"",
+    "dev": "npm run start"
+  },
+  "dependencies": {
+    "concurrently": "^7.0.0"
+  }
+}
