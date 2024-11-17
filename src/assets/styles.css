@@ -568,7 +568,7 @@ img {
 
 .main-img {
     margin-top: 80px; /* Reduced margin for main image */
-    width: 55%;
+    width:80%;
     border-radius: 50%;
     justify-self: center;
 }
