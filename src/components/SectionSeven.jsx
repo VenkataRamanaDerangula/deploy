@@ -7,13 +7,8 @@ const PricingSection = () => {
       <div className="container-2">
         <div className="left-section">
           <img
-            className="bg-circle"
-            src="./images/plan-bg.svg"
-            alt="Background"
-          />
-          <img
             className="main-img"
-            src="./images/plan-img.webp"
+            src="https://www.ultimate.ai/hs-fs/hubfs/Blog_Thumbnail_Will%20AI%20Replace%20Humans%20in%20Customer%20Service__1200x628px_2x-1.jpg?width=1800&height=942&name=Blog_Thumbnail_Will%20AI%20Replace%20Humans%20in%20Customer%20Service__1200x628px_2x-1.jpg"
             alt="Main"
           />
           <div className="price-tag individual">
